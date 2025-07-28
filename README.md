@@ -1,3 +1,3 @@
 # KpLaw
 
-C-Suite Law to promote [ Core Values of "#Truth >< #Honesty >< #Care ><" ].
+C-Suite Law to promote Core Values of [ #Truth >< #Honesty >< #Care >< ].
